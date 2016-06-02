@@ -16,6 +16,8 @@ MODULE_DESCRIPTION("My kernel module");
 MODULE_AUTHOR("Me");
 MODULE_LICENSE("GPL");
 
+// renz was here
+
 //----- System Call Table Stuff ------------------------------------
 /* Symbol that allows access to the kernel system call table */
 extern void* sys_call_table[];
